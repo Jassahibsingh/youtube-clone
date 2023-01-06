@@ -1,2 +1,2 @@
 # youtube-clone
-Made a youtube clone using react
+Made a youtube clone using ReactJS
