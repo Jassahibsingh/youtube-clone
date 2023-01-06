@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ytclone-by-js.web.app
+Token: d69a56655b5310f97a00b1d3368e0bab44d74306e5ccd153589ba93f9b0edbe4

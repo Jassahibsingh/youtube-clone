@@ -1,0 +1,28 @@
+.video {
+  padding-left: 60px;
+  padding-right: 60px;
+  /* background-color: bisque; */
+  width: 89vw;
+  display: flex;
+}
+.player {
+  /* background-color: aquamarine; */
+  width: 70vw;
+  align-items: center;
+  margin: 30px;
+}
+
+.side-content {
+  /* background-color: cadetblue; */
+  display: flex;
+  margin-top: 30px;
+  margin-left: 50px;
+  /* top: 10000px; */
+  /* right: 1000px; */
+  width: 30vw;
+  align-items: stretch;
+  /* justify-content: right; */
+  flex-direction: column;
+  /* display: flex; */
+  /* align-items: row; */
+}
